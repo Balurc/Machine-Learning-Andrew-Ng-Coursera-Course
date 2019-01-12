@@ -1,2 +1,2 @@
-# Machine-Learning-Andrew-Ng-s-Course
-Solutions in python
+# Machine-Learning-Andrew-Ng-Course
+Assignments solution is python
